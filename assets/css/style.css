@@ -182,6 +182,16 @@ header {
     border-radius: 50%;
 }
 
+.brand-2{
+    /*LOGO CENTRAL*/
+    background-color: #000;
+    
+    width: 200px;
+    height: 200px;
+    border-color: #000;
+    border-radius: 50%;
+}
+
 #video-principal {
     margin-top: 50px;
     display: flex;
